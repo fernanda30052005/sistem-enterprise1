@@ -66,6 +66,11 @@
                       <div data-i18n="Sub Menu 2">Sub Menu 2</div>
                     </a>
                   </li>
+                  <li class="menu-item">
+                    <a href="{{route('roles.index')}}" class="menu-link">
+                      <div data-i18n="Sub Menu 2">Role</div>
+                    </a>
+                  </li>
               </ul>
             </li>
             <li class="menu-item">
